@@ -1,0 +1,401 @@
+,Title,Director,Lead_Role,Genre,Year,Duration,Demographic,Rating
+0,The Flash,Andy Muschietti,Ezra Miller,"Action, Adventure, Fantasy",2023,144.0,UA,7.3
+1,Spider-Man: Across the Spider-Verse,Joaquim Dos Santos,Shameik Moore,"Animation, Action, Adventure",2023,140.0,U,8.9
+2,Transformers: Rise of the Beasts,Steven Caple Jr.,Anthony Ramos,"Action, Adventure, Sci-Fi",2023,127.0,UA,6.6
+3,Avatar: The Way of Water,James Cameron,Sam Worthington,"Action, Adventure, Fantasy",2022,192.0,UA,7.6
+4,Extraction II,Sam Hargrave,Chris Hemsworth,"Action, Thriller",2023,122.0,A,7.1
+5,Fast X,Louis Leterrier,Vin Diesel,"Action, Adventure, Crime",2023,141.0,UA,6.0
+6,Spider-Man: Into the Spider-Verse,Bob Persichetti,Shameik Moore,"Animation, Action, Adventure",2018,117.0,U,8.4
+7,John Wick: Chapter ,Chad Stahelski,Keanu Reeves,"Action, Crime, Thriller",2023,169.0,A,7.9
+8,Indiana Jones and the Dial of Destiny,James Mangold,Harrison Ford,"Action, Adventure",2023,154.0,PG-13,6.966027397260274
+9,Guardians of the Galaxy Vol ,James Gunn,Chris Pratt,"Action, Adventure, Comedy",2023,150.0,UA,8.2
+10,Guy Ritchie's The Covenant,Guy Ritchie,Jake Gyllenhaal,"Action, Thriller, War",2023,123.0,R,7.5
+11,Dungeons & Dragons: Honor Among Thieves,John Francis Daley,Chris Pine,"Action, Adventure, Comedy",2023,134.0,UA,7.3
+12,Expendbles,Scott Waugh,Jason Statham,"Action, Adventure, Thriller",2023,124.7181571815718,UA,6.966027397260274
+13,Extraction,Sam Hargrave,Chris Hemsworth,"Action, Thriller",2020,116.0,18,6.8
+14,Adipurush,Om Raut,Kriti Sanon,"Action, Adventure, Drama",2023,179.0,U,4.5
+15,Kandahar,Ric Roman Waugh,Tom Rhys,"Action, Thriller",2023,119.0,R,6.0
+16,Sisu,Jalmari Helander,Jorma Tommila,"Action, War",2022,91.0,A,6.9
+17,Ant-Man and the Wasp: Quantumania,Peyton Reed,Paul Rudd,"Action, Adventure, Comedy",2023,124.0,UA,6.1
+18,Avatar,James Cameron,Sam Worthington,"Action, Adventure, Fantasy",2009,162.0,UA,7.9
+19,Bloody Daddy,Ali Abbas Zafar,Amy Aela,"Action, Drama, Thriller",2023,121.0,A,7.1
+20,Shazam! Fury of the Gods,David F. Sandberg,Zachary Levi,"Action, Adventure, Comedy",2023,130.0,UA,6.0
+21,Mission: Impossible - Dead Reckoning Part One,Christopher McQuarrie,Rebecca Ferguson,"Action, Adventure, Thriller",2023,163.0,UA,6.966027397260274
+22,Raiders of the Lost Ark,Steven Spielberg,Harrison Ford,"Action, Adventure",1981,115.0,A,8.4
+23,Hypnotic,Robert Rodriguez,Ben Affleck,"Action, Mystery, Thriller",2023,93.0,R,5.4
+24,Dune: Part One,Denis Villeneuve,Timothée Chalamet,"Action, Adventure, Drama",2021,155.0,UA,8.0
+25,Spider-Man: Beyond the Spider-Verse,Joaquim Dos Santos,Shameik Moore,"Animation, Action, Adventure",2024,124.7181571815718,UA,6.966027397260274
+26,Transformers,Michael Bay,Shia LaBeouf,"Action, Adventure, Sci-Fi",2007,144.0,UA,7.0
+27,Gladiator ,Ridley Scott,Pedro Pascal,"Action, Adventure, Drama",2024,124.7181571815718,UA,6.966027397260274
+28,Jurassic Park,Steven Spielberg,Sam Neill,"Action, Adventure, Sci-Fi",1993,127.0,UA,8.2
+29,Top Gun: Maverick,Joseph Kosinski,Tom Cruise,"Action, Drama",2022,130.0,UA,8.3
+30,Nimona,Nick Bruno,Riz Ahmed,"Animation, Action, Adventure",2023,101.0,PG,7.1
+31,The MachineI ,Peter Atencio,Bert Kreischer,"Action, Comedy",2023,112.0,R,6.1
+32,Spider-Man: No Way Home,Jon Watts,Tom Holland,"Action, Adventure, Fantasy",2021,148.0,UA,8.2
+33,Everything Everywhere All at Once,Daniel Kwan,Michelle Yeoh,"Action, Adventure, Comedy",2022,139.0,A,7.8
+34,65,Scott Beck,Adam Driver,"Action, Adventure, Drama",2023,93.0,UA,5.4
+35,Inception,Christopher Nolan,Leonardo DiCaprio,"Action, Adventure, Sci-Fi",2010,148.0,UA,8.8
+36,The Batman,Matt Reeves,Robert Pattinson,"Action, Crime, Drama",2022,176.0,UA,7.8
+37,Dune: Part Two,Denis Villeneuve,Timothée Chalamet,"Action, Adventure, Drama",2023,124.7181571815718,UA,6.966027397260274
+38,The Dark Knight,Christopher Nolan,Christian Bale,"Action, Crime, Drama",2008,152.0,UA,9.0
+39,The Mother,Niki Caro,Jennifer Lopez,"Action, Thriller",2023,115.0,R,5.6
+40,Transformers: The Last Knight,Michael Bay,Mark Wahlberg,"Action, Adventure, Sci-Fi",2017,154.0,UA,5.2
+41,GhostedI ,Dexter Fletcher,Chris Evans,"Action, Adventure, Comedy",2023,116.0,U/A 16+,5.8
+42,Indiana Jones and the Temple of Doom,Steven Spielberg,Harrison Ford,"Action, Adventure",1984,118.0,(Banned),7.5
+43,Misanthrope,Damián Szifron,Shailene Woodley,"Action, Crime, Drama",2023,119.0,A,6.6
+44,Blood & Gold,Peter Thorwarth,Robert Maaser,"Action, Drama, War",2023,98.0,A,6.5
+45,Heat,Michael Mann,Al Pacino,"Action, Crime, Drama",1995,170.0,A,8.3
+46,Bullet Train,David Leitch,Brad Pitt,"Action, Comedy, Thriller",2022,127.0,A,7.3
+47,John Wick,Chad Stahelski,Keanu Reeves,"Action, Crime, Thriller",2014,101.0,A,7.4
+48,F,Justin Lin,Vin Diesel,"Action, Crime, Thriller",2021,143.0,UA,5.2
+49,BumblebeeI ,Travis Knight,Hailee Steinfeld,"Action, Adventure, Sci-Fi",2018,114.0,UA,6.7
+50,Indiana Jones and the Last Crusade,Steven Spielberg,Harrison Ford,"Action, Adventure",1989,127.0,U,8.2
+51,Operation Fortune: Ruse de Guerre,Guy Ritchie,Jason Statham,"Action, Comedy, Thriller",2023,114.0,A,6.3
+52,Guardians of the Galaxy,James Gunn,Chris Pratt,"Action, Adventure, Comedy",2014,121.0,UA,8.0
+53,Avengers: Endgame,Anthony Russo,Robert Downey,"Action, Adventure, Drama",2019,181.0,UA,8.4
+54,The Terminator,James Cameron,Arnold Schwarzenegger,"Action, Sci-Fi",1984,107.0,A,8.1
+55,Batman,Tim Burton,Michael Keaton,"Action, Adventure",1989,126.0,U,7.5
+56,Transformers: Age of Extinction,Michael Bay,Mark Wahlberg,"Action, Adventure, Sci-Fi",2014,165.0,UA,5.6
+57,Terminator : Judgment Day,James Cameron,Arnold Schwarzenegger,"Action, Sci-Fi",1991,137.0,A,8.6
+58,The Fast and the Furious,Rob Cohen,Vin Diesel,"Action, Crime, Thriller",2001,106.0,A,6.8
+59,Gladiator,Ridley Scott,Russell Crowe,"Action, Adventure, Drama",2000,155.0,UA,8.5
+60,Dune,David Lynch,Kyle MacLachlan,"Action, Adventure, Sci-Fi",1984,137.0,U,6.3
+61,Gumraah,Vardhan Ketkar,Aditya Roy,"Action, Crime, Drama",2023,130.0,UA,6.5
+62,The Unbearable Weight of Massive Talent,Tom Gormican,Nicolas Cage,"Action, Comedy, Crime",2022,107.0,A,7.0
+63,Sirf Ek Bandaa Kaafi Hai,Apoorv Singh Karki,Manoj Bajpayee,"Action, Drama",2023,132.0,UA,7.8
+64,"Ruby Gillman, Teenage Kraken",Kirk DeMicco,Jane Fonda,"Animation, Action, Adventure",2023,90.0,PG,5.9
+65,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,Elijah Wood,"Action, Adventure, Drama",2001,178.0,U,8.8
+66,Deep Rising,Stephen Sommers,Treat Williams,"Action, Adventure, Horror",1998,106.0,A,6.1
+67,Blade Runner ,Denis Villeneuve,Harrison Ford,"Action, Drama, Mystery",2017,164.0,UA,8.0
+68,Spider-Man,Sam Raimi,Tobey Maguire,"Action, Adventure, Sci-Fi",2002,121.0,U,7.4
+69,Avatar ,James Cameron,Jack Champion,"Action, Adventure, Fantasy",2025,124.7181571815718,UA,6.966027397260274
+70,Indiana Jones and the Kingdom of the Crystal Skull,Steven Spielberg,Harrison Ford,"Action, Adventure",2008,122.0,U,6.2
+71,Man of Steel,Zack Snyder,Henry Cavill,"Action, Adventure, Sci-Fi",2013,143.0,UA,7.1
+72,In Time,Andrew Niccol,Justin Timberlake,"Action, Sci-Fi, Thriller",2011,109.0,UA,6.7
+73,Transformers: Dark of the Moon,Michael Bay,Shia LaBeouf,"Action, Adventure, Sci-Fi",2011,154.0,UA,6.2
+74,Teenage Mutant Ninja Turtles: Mutant Mayhem,Jeff Rowe,Rose Byrne,"Animation, Action, Adventure",2023,124.7181571815718,UA,6.966027397260274
+75,Kingsman: The Secret Service,Matthew Vaughn,Colin Firth,"Action, Adventure, Comedy",2014,129.0,A,7.7
+76,True Lies,James Cameron,Arnold Schwarzenegger,"Action, Comedy, Thriller",1994,141.0,A,7.3
+77,Top Gun,Tony Scott,Tom Cruise,"Action, Drama",1986,109.0,U,6.9
+78,Thor: Love and Thunder,Taika Waititi,Chris Hemsworth,"Action, Adventure, Comedy",2022,118.0,UA,6.2
+79,Sound of Freedom,Alejandro Monteverde,Jim Caviezel,"Action, Biography, Drama",2022,135.0,PG-13,7.9
+80,The Hunger Games,Gary Ross,Jennifer Lawrence,"Action, Adventure, Sci-Fi",2012,142.0,UA,7.2
+81,Black Panther: Wakanda Forever,Ryan Coogler,Letitia Wright,"Action, Adventure, Drama",2022,161.0,UA,6.7
+82,Léon,Luc Besson,Jean Reno,"Action, Crime, Drama",1994,110.0,A,8.5
+83,Spider-Man: Homecoming,Jon Watts,Tom Holland,"Action, Adventure, Sci-Fi",2017,133.0,U,7.4
+84,Peter Pan & Wendy,David Lowery,Alexander Molony,"Action, Adventure, Comedy",2023,106.0,UA 7+,4.4
+85,Zack Snyder's Justice League,Zack Snyder,Henry Cavill,"Action, Adventure, Fantasy",2021,242.0,18,8.0
+86,The Wrath of Becky,Matt Angel,Lulu Wilson,"Action, Horror, Thriller",2023,84.0,R,6.0
+87,The Suicide Squad,James Gunn,Margot Robbie,"Action, Adventure, Comedy",2021,132.0,A,7.2
+88,John Wick: Chapter  - Parabellum,Chad Stahelski,Keanu Reeves,"Action, Crime, Thriller",2019,130.0,A,7.4
+89,Mad Max: Fury Road,George Miller,Tom Hardy,"Action, Adventure, Sci-Fi",2015,120.0,UA,8.1
+90,Ready Player One,Steven Spielberg,Tye Sheridan,"Action, Adventure, Sci-Fi",2018,140.0,UA,7.4
+91,Transformers: Revenge of the Fallen,Michael Bay,Shia LaBeouf,"Action, Adventure, Sci-Fi",2009,149.0,UA,5.9
+92,Ford v Ferrari,James Mangold,Matt Damon,"Action, Biography, Drama",2019,152.0,UA,8.1
+93,Fast & Furious,Justin Lin,Vin Diesel,"Action, Crime, Thriller",2009,107.0,UA,6.5
+94,Violent Night,Tommy Wirkola,David Harbour,"Action, Comedy, Crime",2022,112.0,A,6.7
+95,Jurassic World Dominion,Colin Trevorrow,Chris Pratt,"Action, Adventure, Sci-Fi",2022,147.0,UA,5.6
+96,Conan the Barbarian,John Milius,Arnold Schwarzenegger,"Action, Adventure, Fantasy",1982,129.0,A,6.9
+97,The Matrix,Lana Wachowski,Keanu Reeves,"Action, Sci-Fi",1999,136.0,A,8.7
+98,Commando,Mark L. Lester,Arnold Schwarzenegger,"Action, Adventure, Thriller",1985,90.0,A,6.7
+99,End of Days,Peter Hyams,Arnold Schwarzenegger,"Action, Fantasy, Horror",1999,122.0,R,5.8
+100,The Hunger Games: The Ballad of Songbirds and Snakes,Francis Lawrence,Jason Schwartzman,"Action, Adventure, Drama",2023,124.7181571815718,UA,6.966027397260274
+101,John Wick: Chapter ,Chad Stahelski,Keanu Reeves,"Action, Crime, Thriller",2017,122.0,A,7.4
+102,The Gentlemen,Guy Ritchie,Matthew McConaughey,"Action, Comedy, Crime",2019,113.0,A,7.8
+103,Guardians of the Galaxy Vol ,James Gunn,Chris Pratt,"Action, Adventure, Comedy",2017,136.0,UA,7.6
+104,Plane,Jean-François Richet,Gerard Butler,"Action, Adventure, Thriller",2023,107.0,UA,6.5
+105,Fast & Furious ,James Wan,Vin Diesel,"Action, Crime, Thriller",2015,137.0,A,7.1
+106,No Time to Die,Cary Joji Fukunaga,Daniel Craig,"Action, Adventure, Thriller",2021,163.0,UA,7.3
+107,Napoleon,Ridley Scott,Vanessa Kirby,"Action, Biography, Drama",2023,124.7181571815718,R,6.966027397260274
+108,Meg : The Trench,Ben Wheatley,Jason Statham,"Action, Adventure, Horror",2023,124.7181571815718,PG-13,6.966027397260274
+109,Shazam!,David F. Sandberg,Zachary Levi,"Action, Adventure, Comedy",2019,132.0,UA,7.0
+110,The Woman King,Gina Prince-Bythewood,Viola Davis,"Action, Drama, History",2022,135.0,UA,6.9
+111,The Meg,Jon Turteltaub,Jason Statham,"Action, Horror, Sci-Fi",2018,113.0,UA,5.6
+112,The Fast and the Furious: Tokyo Drift,Justin Lin,Lucas Black,"Action, Crime, Thriller",2006,104.0,UA,6.0
+113,The Mummy,Stephen Sommers,Brendan Fraser,"Action, Adventure, Fantasy",1999,124.0,A,7.1
+114,ShooterI ,Antoine Fuqua,Mark Wahlberg,"Action, Drama, Thriller",2007,124.0,A,7.1
+115,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,Johnny Depp,"Action, Adventure, Fantasy",2003,143.0,UA,8.1
+116,Aquaman and the Lost Kingdom,James Wan,Jason Momoa,"Action, Adventure, Fantasy",2023,124.7181571815718,UA,6.966027397260274
+117,Tenet,Christopher Nolan,John David,"Action, Sci-Fi, Thriller",2020,150.0,UA,7.3
+118,Blade Runner,Ridley Scott,Harrison Ford,"Action, Drama, Sci-Fi",1982,117.0,UA,8.1
+119,CreedII ,Ryan Coogler,Michael B,"Action, Drama, Sport",2015,133.0,UA,7.6
+120,Rebel Moon,Zack Snyder,Sofia Boutella,"Action, Adventure, Drama",2023,124.7181571815718,UA,6.966027397260274
+121,Im Westen nichts Neues,Edward Berger,Felix Kammerer,"Action, Drama, War",2022,148.0,A,7.8
+122,Black Adam,Jaume Collet-Serra,Dwayne Johnson,"Action, Adventure, Fantasy",2022,125.0,UA,6.3
+123,Oldeuboi,Park Chan-wook,Choi Min,"Action, Drama, Mystery",2003,101.0,A,8.4
+124,Hot Fuzz,Edgar Wright,Simon Pegg,"Action, Comedy, Mystery",2007,121.0,A,7.8
+125,Aliens,James Cameron,Sigourney Weaver,"Action, Adventure, Sci-Fi",1986,137.0,U,8.4
+126,Fast Five,Justin Lin,Vin Diesel,"Action, Crime, Thriller",2011,130.0,UA,7.3
+127,The Dark Knight Rises,Christopher Nolan,Christian Bale,"Action, Drama, Thriller",2012,164.0,UA,8.4
+128,The Kingdom,Peter Berg,Jamie Foxx,"Action, Drama, Thriller",2007,110.0,A,7.0
+129,The Lord of the Rings: The Return of the King,Peter Jackson,Elijah Wood,"Action, Adventure, Drama",2003,201.0,U,9.0
+130,The Gray Man,Anthony Russo,Ryan Gosling,"Action, Thriller",2022,122.0,UA 16+,6.5
+131,Deadpool ,David Leitch,Ryan Reynolds,"Action, Adventure, Comedy",2018,119.0,R,7.6
+132,Avengers: Infinity War,Anthony Russo,Robert Downey,"Action, Adventure, Sci-Fi",2018,149.0,UA,8.4
+133,Creed II,Steven Caple Jr.,Michael B,"Action, Drama, Sport",2018,130.0,UA,7.1
+134,Predator,John McTiernan,Arnold Schwarzenegger,"Action, Adventure, Horror",1987,107.0,A,7.8
+135,The Northman,Robert Eggers,Alexander Skarsgård,"Action, Adventure, Drama",2022,137.0,R,7.0
+136,Suicide Squad,David Ayer,Will Smith,"Action, Adventure, Fantasy",2016,123.0,UA,5.9
+137,Batman Begins,Christopher Nolan,Christian Bale,"Action, Crime, Drama",2005,140.0,UA,8.2
+138,Mission: Impossible,Brian De Palma,Tom Cruise,"Action, Adventure, Thriller",1996,110.0,U,7.1
+139,RushI ,Ron Howard,Daniel Brühl,"Action, Biography, Drama",2013,123.0,R,8.1
+140,Black Clover: Sword of the Wizard King,Ayataka Tanemura,Bryn Apprill,"Animation, Action, Adventure",2023,110.0,UA 13+,7.6
+141,Pixels,Chris Columbus,Adam Sandler,"Action, Comedy, Fantasy",2015,105.0,PG-13,5.6
+142,They Cloned Tyrone,Juel Taylor,Jamie Foxx,"Action, Comedy, Mystery",2023,122.0,R,6.9
+143,Deadpool,Tim Miller,Ryan Reynolds,"Action, Comedy",2016,108.0,R,8.0
+144,Deadpool ,Shawn Levy,Ryan Reynolds,"Action, Comedy, Sci-Fi",2024,124.7181571815718,UA,6.966027397260274
+145,Starship Troopers,Paul Verhoeven,Casper Van,"Action, Adventure, Sci-Fi",1997,129.0,A,7.3
+146,Batman & Robin,Joel Schumacher,Arnold Schwarzenegger,"Action, Sci-Fi",1997,125.0,U,3.8
+147,PAW Patrol: The Mighty Movie,Cal Brunker,Mckenna Grace,"Animation, Action, Adventure",2023,124.7181571815718,UA,6.966027397260274
+148,Fast & Furious Presents: Hobbs & Shaw,David Leitch,Dwayne Johnson,"Action, Adventure, Thriller",2019,137.0,A,6.5
+149,Jumanji: Welcome to the Jungle,Jake Kasdan,Dwayne Johnson,"Action, Adventure, Comedy",2017,119.0,UA,6.9
+150,Mission: Impossible - Fallout,Christopher McQuarrie,Tom Cruise,"Action, Adventure, Thriller",2018,147.0,U/A,7.7
+151,Blue Beetle,Angel Manuel Soto,Susan Sarandon,"Action, Adventure, Sci-Fi",2023,124.7181571815718,PG-13,6.966027397260274
+152,Star Wars,George Lucas,Mark Hamill,"Action, Adventure, Fantasy",1977,121.0,U,8.6
+153,The Fate of the Furious,F. Gary Gray,Vin Diesel,"Action, Crime, Thriller",2017,136.0,UA,6.6
+154,Valerian and the City of a Thousand Planets,Luc Besson,Dane DeHaan,"Action, Adventure, Fantasy",2017,136.0,UA,6.4
+155,Venom,Ruben Fleischer,Tom Hardy,"Action, Adventure, Sci-Fi",2018,112.0,UA,6.6
+156,Justice League,Zack Snyder,Ben Affleck,"Action, Adventure, Fantasy",2017,120.0,UA,6.1
+157,Baby Driver,Edgar Wright,Ansel Elgort,"Action, Crime, Drama",2017,113.0,UA,7.6
+158,Aquaman,James Wan,Jason Momoa,"Action, Adventure, Fantasy",2018,143.0,UA,6.8
+159,DriveI ,Nicolas Winding Refn,Ryan Gosling,"Action, Drama",2011,100.0,A,7.8
+160,NobodyI ,Ilya Naishuller,Bob Odenkirk,"Action, Crime, Drama",2021,92.0,A,7.4
+161,Captain America: Brave New World,Julius Onah,Harrison Ford,"Action, Adventure, Sci-Fi",2024,124.7181571815718,UA,6.966027397260274
+162,Casino Royale,Martin Campbell,Daniel Craig,"Action, Adventure, Thriller",2006,144.0,UA,8.0
+163,Fast X: Part ,Louis Leterrier,Vin Diesel,"Action, Crime, Thriller",2025,124.7181571815718,UA,6.966027397260274
+164,Free Guy,Shawn Levy,Ryan Reynolds,"Action, Adventure, Comedy",2021,115.0,UA,7.1
+165,Terminator: Dark Fate,Tim Miller,Linda Hamilton,"Action, Adventure, Sci-Fi",2019,128.0,UA,6.2
+166,,Sam Mendes,Arnold Schwarzenegger,"Action, Drama, War",2019,119.0,R,8.2
+167,Shang-Chi and the Legend of the Ten Rings,Destin Daniel Cretton,Simu Liu,"Action, Adventure, Fantasy",2021,132.0,UA,7.4
+168,Doctor Strange in the Multiverse of Madness,Sam Raimi,Benedict Cumberbatch,"Action, Adventure, Fantasy",2022,126.0,UA,6.9
+169,Uncharted,Ruben Fleischer,Tom Holland,"Action, Adventure",2022,116.0,UA,6.3
+170,RRR Rise Roar Revolt,S.S. Rajamouli,Arnold Schwarzenegger,"Action, Drama",2022,187.0,UA,7.8
+171,Ghostbusters,Ivan Reitman,Bill Murray,"Action, Comedy, Fantasy",1984,105.0,UA,7.8
+172,Furious ,Justin Lin,Vin Diesel,"Action, Adventure, Crime",2013,130.0,UA,7.0
+173,Gran Turismo,Neill Blomkamp,Darren Barnet,"Action, Adventure, Drama",2023,124.7181571815718,UA,6.966027397260274
+174,,Zack Snyder,Gerard Butler,"Action, Drama",2006,117.0,A,7.6
+175,Last Action Hero,John McTiernan,Arnold Schwarzenegger,"Action, Adventure, Comedy",1993,130.0,U,6.5
+176,Eternals,Chloé Zhao,Gemma Chan,"Action, Adventure, Fantasy",2021,156.0,UA,6.3
+177,Spider-Man ,Sam Raimi,Tobey Maguire,"Action, Adventure, Sci-Fi",2007,139.0,UA,6.3
+178,Batman Returns,Tim Burton,Michael Keaton,"Action, Crime, Fantasy",1992,126.0,U,7.1
+179,Watchmen,Zack Snyder,Jackie Earle,"Action, Drama, Mystery",2009,162.0,A,7.6
+180,Knight and Day,James Mangold,Tom Cruise,"Action, Adventure, Comedy",2010,109.0,UA,6.3
+181,Kindergarten Cop,Ivan Reitman,Arnold Schwarzenegger,"Action, Comedy, Crime",1990,111.0,U,6.2
+182,From Dusk Till Dawn,Robert Rodriguez,Harvey Keitel,"Action, Crime, Horror",1996,108.0,A,7.2
+183,The Amazing Spider-Man,Marc Webb,Andrew Garfield,"Action, Adventure, Sci-Fi",2012,136.0,UA,6.9
+184,A History of Violence,David Cronenberg,Viggo Mortensen,"Action, Crime, Drama",2005,96.0,UA,7.4
+185,The Fifth Element,Luc Besson,Bruce Willis,"Action, Adventure, Sci-Fi",1997,126.0,UA,7.6
+186,Wrath of Man,Guy Ritchie,Jason Statham,"Action, Crime, Thriller",2021,119.0,16,7.1
+187,Batman Forever,Joel Schumacher,Val Kilmer,"Action, Adventure",1995,121.0,UA,5.4
+188,Iron Man,Jon Favreau,Robert Downey,"Action, Adventure, Sci-Fi",2008,126.0,UA,7.9
+189,Batman v Superman: Dawn of Justice,Zack Snyder,Ben Affleck,"Action, Adventure, Sci-Fi",2016,151.0,UA,6.4
+190,Spy,Paul Feig,Melissa McCarthy,"Action, Comedy",2015,120.0,A,7.0
+191, Fast  Furious,John Singleton,Paul Walker,"Action, Crime, Thriller",2003,107.0,A,5.9
+192,Hanna,Joe Wright,Saoirse Ronan,"Action, Adventure, Drama",2011,111.0,13,6.8
+193,Dunkirk,Christopher Nolan,Fionn Whitehead,"Action, Drama, History",2017,106.0,UA,7.8
+194,Murder Mystery ,Jeremy Garelick,Adam Sandler,"Action, Comedy, Crime",2023,90.0,UA 13+,5.7
+195,Mortal Kombat,Simon McQuoid,Lewis Tan,"Action, Adventure, Fantasy",2021,110.0,A,6.1
+196,BeckyII ,Jonathan Milott,Lulu Wilson,"Action, Crime, Drama",2020,93.0,R,5.9
+197,The Incredible Hulk,Louis Leterrier,Edward Norton,"Action, Adventure, Sci-Fi",2008,112.0,UA,6.6
+198,Sicario,Denis Villeneuve,Emily Blunt,"Action, Crime, Drama",2015,121.0,A,7.6
+199,The Avengers,Joss Whedon,Robert Downey,"Action, Sci-Fi",2012,143.0,UA,8.0
+200,Thor: Ragnarok,Taika Waititi,Chris Hemsworth,"Action, Adventure, Comedy",2017,130.0,UA,7.9
+201,Tropic Thunder,Ben Stiller,Ben Stiller,"Action, Comedy, War",2008,107.0,R,7.1
+202,The HuntII ,Craig Zobel,Betty Gilpin,"Action, Horror, Thriller",2020,90.0,R,6.5
+203,DC League of Super-Pets,Jared Stern,Dwayne Johnson,"Animation, Action, Adventure",2022,105.0,7,7.1
+204,Jurassic World,Colin Trevorrow,Chris Pratt,"Action, Adventure, Sci-Fi",2015,124.0,UA,6.9
+205,The Creator,Gareth Edwards,Ralph Ineson,"Action, Adventure, Drama",2023,124.7181571815718,PG-13,6.966027397260274
+206,Spider-Man ,Sam Raimi,Tobey Maguire,"Action, Adventure, Sci-Fi",2004,127.0,U,7.4
+207,PreyI ,Dan Trachtenberg,Amber Midthunder,"Action, Adventure, Drama",2022,100.0,16,7.1
+208,Open Range,Kevin Costner,Kevin Costner,"Action, Drama, Romance",2003,139.0,U,7.4
+209,Hunter Killer,Donovan Marsh,Gerard Butler,"Action, Thriller",2018,121.0,UA,6.6
+210,Apocalypto,Mel Gibson,Gerardo Taracena,"Action, Adventure, Drama",2006,139.0,A,7.8
+211,Con Air,Simon West,Nicolas Cage,"Action, Crime, Thriller",1997,115.0,R,6.9
+212,Mission: Impossible - Rogue Nation,Christopher McQuarrie,Tom Cruise,"Action, Adventure, Thriller",2015,131.0,UA,7.4
+213,Independence Day,Roland Emmerich,Will Smith,"Action, Adventure, Sci-Fi",1996,145.0,UA,7.0
+214,Black Hawk Down,Ridley Scott,Josh Hartnett,"Action, Drama, History",2001,144.0,A,7.7
+215,The Expendables,Sylvester Stallone,Sylvester Stallone,"Action, Adventure, Thriller",2010,103.0,A,6.4
+216,The King's Man,Matthew Vaughn,Ralph Fiennes,"Action, Adventure, Thriller",2021,131.0,15+,6.3
+217,Scott Pilgrim vs the World,Edgar Wright,Michael Cera,"Action, Comedy, Fantasy",2010,112.0,U,7.5
+218,Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner,Mark Hamill,"Action, Adventure, Fantasy",1980,124.0,UA,8.7
+219,Wonder Woman,Patty Jenkins,Gal Gadot,"Action, Adventure, Fantasy",2017,141.0,UA,7.4
+220,The Lost World: Jurassic Park,Steven Spielberg,Jeff Goldblum,"Action, Adventure, Sci-Fi",1997,129.0,UA,6.5
+221,Venom: Let There Be Carnage,Andy Serkis,Tom Hardy,"Action, Sci-Fi, Thriller",2021,97.0,UA,5.9
+222,The Last Kingdom: Seven Kings Must Die,Edward Bazalgette,Mark Rowley,"Action, Drama, History",2023,111.0,A,6.9
+223,The Day After Tomorrow,Roland Emmerich,Dennis Quaid,"Action, Adventure, Sci-Fi",2004,124.0,U,6.4
+224,Ready or NotI ,Matt Bettinelli-Olpin,Samara Weaving,"Action, Comedy, Horror",2019,95.0,A,6.8
+225,The Old Way,Brett Donowho,Phillip Aguirre,"Action, Drama, Western",2023,95.0,R,5.4
+226,Kingdom of Heaven,Ridley Scott,Orlando Bloom,"Action, Adventure, Drama",2005,144.0,A,7.2
+227,The Nice Guys,Shane Black,Russell Crowe,"Action, Comedy, Crime",2016,116.0,18,7.3
+228,The Karate Kid,John G. Avildsen,Ralph Macchio,"Action, Drama, Family",1984,126.0,U,7.3
+229,AnnaII ,Luc Besson,Sasha Luss,"Action, Thriller",2019,118.0,A,6.6
+230,The Equalizer ,Antoine Fuqua,Denzel Washington,"Action, Crime, Thriller",2023,124.7181571815718,UA,6.966027397260274
+231,Death Proof,Quentin Tarantino,Kurt Russell,"Action, Thriller",2007,127.0,A,7.0
+232,Star Wars: Episode I - The Phantom Menace,George Lucas,Ewan McGregor,"Action, Adventure, Fantasy",1999,136.0,UA,6.5
+233,Polite Society,Nida Manzoor,Priya Kansara,"Action, Comedy",2023,104.0,A,6.7
+234,RoboCop,Paul Verhoeven,Peter Weller,"Action, Crime, Sci-Fi",1987,102.0,UA,7.6
+235,Mortal Kombat ,Simon McQuoid,Jessica McNamee,"Action, Adventure, Fantasy",2021,124.7181571815718,UA,6.966027397260274
+236,Suzume no Tojimari,Makoto Shinkai,Nanoka Hara,"Animation, Action, Adventure",2022,122.0,PG,7.8
+237,Captain America: The First Avenger,Joe Johnston,Chris Evans,"Action, Adventure, Sci-Fi",2011,124.0,13,6.9
+238,Superman,Richard Donner,Christopher Reeve,"Action, Adventure, Sci-Fi",1978,143.0,U,7.4
+239,Black Panther,Ryan Coogler,Chadwick Boseman,"Action, Adventure, Sci-Fi",2018,134.0,UA,7.3
+240,Kick-Ass,Matthew Vaughn,Aaron Taylor,"Action, Comedy, Crime",2010,117.0,UA,7.6
+241,Men in Black,Barry Sonnenfeld,Tommy Lee,"Action, Adventure, Comedy",1997,98.0,UA,7.3
+242,Harry Potter and the Order of the Phoenix,David Yates,Daniel Radcliffe,"Action, Adventure, Family",2007,138.0,UA,7.5
+243,The Expendables ,Patrick Hughes,Sylvester Stallone,"Action, Adventure, Thriller",2014,126.0,UA,6.1
+244,Logan,James Mangold,Hugh Jackman,"Action, Drama, Sci-Fi",2017,137.0,A,8.1
+245,Kingsman: The Golden Circle,Matthew Vaughn,Taron Egerton,"Action, Adventure, Comedy",2017,141.0,A,6.7
+246,Road House,Rowdy Herrington,Patrick Swayze,"Action, Thriller",1989,114.0,UA,6.7
+247,Baywatch,Seth Gordon,Dwayne Johnson,"Action, Comedy, Crime",2017,116.0,A,5.5
+248,Star Wars: Episode IX - The Rise of Skywalker,J.J. Abrams,Daisy Ridley,"Action, Adventure, Fantasy",2019,141.0,UA,6.5
+249,Rogue One,Gareth Edwards,Felicity Jones,"Action, Adventure, Sci-Fi",2016,133.0,UA,7.8
+250,Fury,David Ayer,Brad Pitt,"Action, Drama, War",2014,134.0,A,7.6
+251,The Equalizer,Antoine Fuqua,Denzel Washington,"Action, Crime, Thriller",2014,132.0,A,7.2
+252,Kill Bill: Vol ,Quentin Tarantino,Uma Thurman,"Action, Crime, Thriller",2003,111.0,A,8.2
+253,The Marvels,Nia DaCosta,Brie Larson,"Action, Adventure, Fantasy",2023,124.7181571815718,UA,6.966027397260274
+254,Pirates of the Caribbean: Dead Men Tell No Tales,Joachim Rønning,Johnny Depp,"Action, Adventure, Fantasy",2017,129.0,UA,6.5
+255,X-Men,Bryan Singer,Patrick Stewart,"Action, Adventure, Sci-Fi",2000,104.0,UA,7.3
+256,The Incredibles,Brad Bird,Craig T,"Animation, Action, Adventure",2004,115.0,U,8.0
+257,The Matrix ResurrectionsI ,Lana Wachowski,Keanu Reeves,"Action, Sci-Fi",2021,148.0,A,5.7
+258,TwisterI ,Jan de Bont,Helen Hunt,"Action, Adventure, Thriller",1996,113.0,UA,6.5
+259,McQ,John Sturges,John Wayne,"Action, Crime, Drama",1974,111.0,UA,6.2
+260,GI Joe: The Rise of Cobra,Stephen Sommers,Dennis Quaid,"Action, Adventure, Sci-Fi",2009,118.0,UA,5.7
+261,Kung Fury: The Movie,David Sandberg,Arnold Schwarzenegger,"Action, Comedy, Crime",2023,124.7181571815718,UA,6.966027397260274
+262,Alita: Battle Angel,Robert Rodriguez,Rosa Salazar,"Action, Adventure, Sci-Fi",2019,122.0,UA,7.3
+263,The Last Duel,Ridley Scott,Matt Damon,"Action, Drama, History",2021,152.0,A,7.4
+264,Edge of Tomorrow,Doug Liman,Tom Cruise,"Action, Adventure, Sci-Fi",2014,113.0,UA,7.9
+265,Transformers One,Josh Cooley,Chris Hemsworth,"Animation, Action, Adventure",2024,124.7181571815718,UA,6.966027397260274
+266,X-Men: Days of Future Past,Bryan Singer,Patrick Stewart,"Action, Adventure, Sci-Fi",2014,132.0,UA,7.9
+267,: to Yuma,James Mangold,Russell Crowe,"Action, Crime, Drama",2007,122.0,A,7.7
+268,The Italian Job,F. Gary Gray,Donald Sutherland,"Action, Crime, Thriller",2003,111.0,UA,7.0
+269,Les trois mousquetaires: D'Artagnan,Martin Bourboulon,François Civil,"Action, Adventure, History",2023,121.0,UA,7.1
+270,Captain Marvel,Anna Boden,Brie Larson,"Action, Adventure, Sci-Fi",2019,123.0,UA,6.8
+271,Thor,Kenneth Branagh,Chris Hemsworth,"Action, Fantasy",2011,115.0,UA,7.0
+272,Spider-Man: Far from Home,Jon Watts,Tom Holland,"Action, Adventure, Comedy",2019,129.0,U,7.4
+273,Landmine Goes Click,Levan Bakhia,Sterling Knight,"Action, Crime, Drama",2015,105.0,UA,5.9
+274,The Amazing Spider-Man ,Marc Webb,Andrew Garfield,"Action, Adventure, Sci-Fi",2014,142.0,UA,6.6
+275,Black Widow,Cate Shortland,Scarlett Johansson,"Action, Adventure, Sci-Fi",2021,134.0,UA,6.7
+276,Harry Potter and the Half-Blood Prince,David Yates,Daniel Radcliffe,"Action, Adventure, Family",2009,153.0,UA,7.6
+277,The Lord of the Rings: The Two Towers,Peter Jackson,Elijah Wood,"Action, Adventure, Drama",2002,179.0,UA,8.8
+278,Sonic the Hedgehog ,Jeff Fowler,James Marsden,"Animation, Action, Adventure",2024,124.7181571815718,UA,6.966027397260274
+279,Moonfall,Roland Emmerich,Halle Berry,"Action, Adventure, Sci-Fi",2022,130.0,UA,5.1
+280,Earthquake,Mark Robson,Charlton Heston,"Action, Drama, Thriller",1974,122.0,U,5.9
+281,Die Hard,John McTiernan,Bruce Willis,"Action, Thriller",1988,132.0,A,8.2
+282,Game NightI ,John Francis Daley,Jason Bateman,"Action, Adventure, Comedy",2018,100.0,A,6.9
+283,Self/less,Tarsem Singh,Ryan Reynolds,"Action, Mystery, Sci-Fi",2015,117.0,PG-13,6.5
+284,Red Sparrow,Francis Lawrence,Jennifer Lawrence,"Action, Drama, Thriller",2018,140.0,A,6.6
+285,Mafia Mamma,Catherine Hardwicke,Toni Collette,"Action, Comedy, Crime",2023,101.0,R,5.3
+286,Godzilla vs Kong,Adam Wingard,Alexander Skarsgård,"Action, Sci-Fi, Thriller",2021,113.0,UA,6.3
+287,Total Recall,Paul Verhoeven,Arnold Schwarzenegger,"Action, Adventure, Sci-Fi",1990,113.0,A,7.5
+288,Dead Heat,Mark Goldblatt,Treat Williams,"Action, Comedy, Horror",1988,84.0,UA,6.1
+289,The Three Musketeers,Richard Lester,Oliver Reed,"Action, Adventure",1973,106.0,UA,7.1
+290,Angry Birds,Clay Kaytis,Jason Sudeikis,"Animation, Action, Adventure",2016,97.0,UA,6.3
+291,The Bourne Identity,Doug Liman,Franka Potente,"Action, Mystery, Thriller",2002,119.0,UA,7.9
+292,The Man from Toronto,Patrick Hughes,Kevin Hart,"Action, Adventure, Comedy",2022,110.0,UA 13+,5.8
+293,Star Trek,J.J. Abrams,Chris Pine,"Action, Adventure, Sci-Fi",2009,127.0,UA,7.9
+294,Jack Reacher,Christopher McQuarrie,Tom Cruise,"Action, Mystery, Thriller",2012,130.0,UA,7.0
+295,Jumanji: The Next Level,Jake Kasdan,Dwayne Johnson,"Action, Adventure, Comedy",2019,123.0,UA,6.7
+296,The Tomorrow War,Chris McKay,Chris Pratt,"Action, Adventure, Drama",2021,138.0,13,6.5
+297,Red Notice,Rawson Marshall Thurber,Dwayne Johnson,"Action, Comedy, Thriller",2021,118.0,13,6.3
+298,Ant-Man,Peyton Reed,Paul Rudd,"Action, Comedy, Sci-Fi",2015,117.0,UA,7.3
+299,Greyhound,Aaron Schneider,Tom Hanks,"Action, Drama, History",2020,91.0,A,7.0
+300,The Hunger Games: Catching Fire,Francis Lawrence,Jennifer Lawrence,"Action, Adventure, Sci-Fi",2013,146.0,UA,7.5
+301,Mission: Impossible - Ghost Protocol,Brad Bird,Tom Cruise,"Action, Adventure, Thriller",2011,132.0,UA,7.4
+302,Point Break,Kathryn Bigelow,Patrick Swayze,"Action, Crime, Thriller",1991,122.0,A,7.2
+303,Terminator Genisys,Alan Taylor,Arnold Schwarzenegger,"Action, Adventure, Sci-Fi",2015,126.0,UA,6.3
+304,The Accountant,Gavin O'Connor,Ben Affleck,"Action, Thriller",2016,128.0,18,7.3
+305,,Jude Anthany Joseph,Tovino Thomas,"Action, Drama, Thriller",2023,150.0,UA,8.5
+306,Argylle,Matthew Vaughn,Henry Cavill,"Action, Thriller",2024,124.7181571815718,UA,6.966027397260274
+307,The Magnificent Seven,Antoine Fuqua,Denzel Washington,"Action, Adventure, Drama",2016,132.0,UA,6.9
+308,The Lost City,Aaron Nee,Sandra Bullock,"Action, Adventure, Comedy",2022,112.0,UA,6.1
+309,Gone in Sixty Seconds,Dominic Sena,Nicolas Cage,"Action, Crime, Thriller",2000,118.0,U,6.5
+310,Thunderbolts,Jake Schreier,Harrison Ford,"Action, Adventure, Crime",2024,124.7181571815718,UA,6.966027397260274
+311,Terminator : Rise of the Machines,Jonathan Mostow,Arnold Schwarzenegger,"Action, Sci-Fi",2003,109.0,UA,6.3
+312,Sonic the Hedgehog,Jeff Fowler,Ben Schwartz,"Action, Adventure, Comedy",2020,99.0,U,6.5
+313,The Bourne Legacy,Tony Gilroy,Jeremy Renner,"Action, Adventure, Thriller",2012,135.0,UA,6.6
+314,Speed,Jan de Bont,Keanu Reeves,"Action, Adventure, Thriller",1994,116.0,A,7.3
+315,God Is a Bullet,Nick Cassavetes,Maika Monroe,"Action, Crime, Horror",2023,155.0,UA,6.4
+316,The Last of the Mohicans,Michael Mann,Daniel Day,"Action, Adventure, Drama",1992,112.0,UA,7.7
+317,Sonic the Hedgehog ,Jeff Fowler,James Marsden,"Action, Adventure, Comedy",2022,122.0,7,6.5
+318,Diamonds Are Forever,Guy Hamilton,Sean Connery,"Action, Adventure, Thriller",1971,120.0,U,6.5
+319,Vertical Limit,Martin Campbell,Scott Glenn,"Action, Adventure, Drama",2000,124.0,UA,5.9
+320,The Mask,Chuck Russell,Jim Carrey,"Action, Comedy, Crime",1994,101.0,U,6.9
+321,Ballerina,Len Wiseman,Ana de,"Action, Thriller",2024,124.7181571815718,UA,6.966027397260274
+322,Flash Gordon,Mike Hodges,Sam J,"Action, Adventure, Sci-Fi",1980,111.0,U,6.5
+323,,Steven Spielberg,John Belushi,"Action, Comedy, War",1979,118.0,U,5.8
+324,Avengers: The Kang Dynasty,Destin Daniel Cretton,Hailee Steinfeld,"Action, Adventure, Sci-Fi",2026,124.7181571815718,UA,6.966027397260274
+325,The Phantom,Simon Wincer,Billy Zane,"Action, Adventure, Comedy",1996,100.0,UA,5.0
+326,Star Wars: Episode VII - The Force Awakens,J.J. Abrams,Daisy Ridley,"Action, Adventure, Sci-Fi",2015,138.0,U,7.8
+327,Knights of the Zodiac,Tomasz Baginski,Arnold Schwarzenegger,"Action, Adventure, Drama",2023,112.0,PG-13,4.5
+328,Long ma jing shen,Larry Yang,Jackie Chan,"Action, Comedy, Drama",2023,126.0,UA,6.3
+329,Mission: Impossible III,J.J. Abrams,Tom Cruise,"Action, Adventure, Thriller",2006,126.0,UA,6.9
+330,Kraven the Hunter,J.C. Chandor,Aaron Taylor,"Action, Adventure, Sci-Fi",2023,124.7181571815718,UA,6.966027397260274
+331,Bholaa,Ajay Devgn,Ajay Devgn,"Action, Adventure, Crime",2023,144.0,UA,6.5
+332,Captain America: Civil War,Anthony Russo,Chris Evans,"Action, Sci-Fi",2016,147.0,UA,7.8
+333,Morbius,Daniel Espinosa,Jared Leto,"Action, Adventure, Horror",2022,104.0,UA,5.2
+334,Star Wars: Episode VI - Return of the Jedi,Richard Marquand,Mark Hamill,"Action, Adventure, Fantasy",1983,131.0,U,8.3
+335,The RevenantI ,Alejandro G. Iñárritu,Leonardo DiCaprio,"Action, Adventure, Drama",2015,156.0,A,8.0
+336,Ambush,Mark Burman,Jonathan Rhys,"Action, Thriller, War",2023,104.0,R,4.1
+337,The Mummy,Alex Kurtzman,Tom Cruise,"Action, Adventure, Fantasy",2017,110.0,A,5.4
+338,Assassin's Creed,Justin Kurzel,Michael Fassbender,"Action, Adventure, Sci-Fi",2016,115.0,UA,5.6
+339,El Camino: A Breaking Bad Movie,Vince Gilligan,Aaron Paul,"Action, Crime, Drama",2019,122.0,16,7.3
+340,Avengers: Secret Wars,Chris Hemsworth,Chris Hemsworth,"Action, Adventure, Sci-Fi",2027,124.7181571815718,UA,6.966027397260274
+341,Divergent,Neil Burger,Shailene Woodley,"Action, Adventure, Mystery",2014,139.0,UA,6.6
+342,The Maze Runner,Wes Ball,Dylan O,"Action, Mystery, Sci-Fi",2014,113.0,UA,6.8
+343,Snake Eyes: GI Joe Origins,Robert Schwentke,Henry Golding,"Action, Adventure, Crime",2021,121.0,PG-13,5.4
+344,Die Hart,Eric Appel,Kevin Hart,"Action, Comedy",2023,84.0,UA,5.1
+345,The Warriors,Walter Hill,Michael Beck,"Action, Crime, Thriller",1979,93.0,UA,7.5
+346,Busanhaeng,Sang-ho Yeon,Gong Yoo,"Action, Horror, Thriller",2016,118.0,A,7.6
+347,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,Cathy Yan,Margot Robbie,"Action, Comedy, Crime",2020,109.0,A,6.1
+348,The Lego Movie,Phil Lord,Chris Pratt,"Animation, Action, Adventure",2014,100.0,U,7.7
+349,The Other Guys,Adam McKay,Will Ferrell,"Action, Comedy, Crime",2010,107.0,A,6.6
+350,Avengers: Age of Ultron,Joss Whedon,Robert Downey,"Action, Adventure, Sci-Fi",2015,141.0,UA,7.3
+351,How to Train Your Dragon,Dean DeBlois,Jay Baruchel,"Animation, Action, Adventure",2010,98.0,U,8.1
+352,Wonder Woman ,Patty Jenkins,Gal Gadot,"Action, Adventure, Fantasy",2020,151.0,UA,5.4
+353,Mad Max,George Miller,Mel Gibson,"Action, Adventure, Sci-Fi",1979,88.0,U,6.8
+354,Kong: Skull Island,Jordan Vogt-Roberts,Tom Hiddleston,"Action, Adventure, Fantasy",2017,118.0,UA,6.6
+355, Jump Street,Phil Lord,Jonah Hill,"Action, Comedy, Crime",2012,109.0,UA,7.2
+356,Star Wars: Episode III - Revenge of the Sith,George Lucas,Hayden Christensen,"Action, Adventure, Fantasy",2005,140.0,U,7.6
+357,Appaloosa,Ed Harris,Ed Harris,"Action, Crime, Drama",2008,115.0,R,6.7
+358,Escape RoomI ,Adam Robitel,Taylor Russell,"Action, Adventure, Horror",2019,99.0,A,6.4
+359,PredestinationI ,Michael Spierig,Ethan Hawke,"Action, Drama, Sci-Fi",2014,97.0,18,7.4
+360,The Expendables ,Simon West,Sylvester Stallone,"Action, Adventure, Thriller",2012,103.0,A,6.6
+361,Perfect Addiction,Castille Landon,Manu Bennett,"Action, Drama, Romance",2023,107.0,R,5.5
+362,Teenage Mutant Ninja Turtles,Steve Barron,Judith Hoag,"Action, Adventure, Comedy",1990,93.0,U,6.7
+363,The World's End,Edgar Wright,Simon Pegg,"Action, Comedy, Sci-Fi",2013,109.0,UA,6.9
+364,Teenage Mutant Ninja Turtles,Jonathan Liebesman,Megan Fox,"Action, Adventure, Comedy",2014,101.0,15+,5.8
+365,Mission: Impossible II,John Woo,Tom Cruise,"Action, Adventure, Thriller",2000,123.0,UA,6.1
+366,Armageddon,Michael Bay,Bruce Willis,"Action, Adventure, Sci-Fi",1998,151.0,UA,6.7
+367,The Lord of the Rings: The War of the Rohirrim,Kenji Kamiyama,Brian Cox,"Animation, Action, Adventure",2024,130.0,UA,6.966027397260274
+368,Shotgun Wedding,Jason Moore,Jennifer Lopez,"Action, Comedy, Romance",2022,101.0,A,5.5
+369,Mad Max ,George Miller,Mel Gibson,"Action, Adventure, Sci-Fi",1981,96.0,UA,7.6
+370,Por Thozhil,Vignesh Raja,Nikhila Vimal,"Action, Thriller",2023,147.0,UA,8.5
+371,LucyI ,Luc Besson,Scarlett Johansson,"Action, Sci-Fi, Thriller",2014,89.0,A,6.4
+372,Van Helsing,Stephen Sommers,Hugh Jackman,"Action, Adventure, Fantasy",2004,131.0,UA,6.0
+373,Dawn of the Dead,Zack Snyder,Sarah Polley,"Action, Horror",2004,101.0,A,7.3
+374,Superman: Legacy,James Gunn,Arnold Schwarzenegger,"Action, Adventure, Fantasy",2025,124.7181571815718,UA,6.966027397260274
+375,Tron,Joseph Kosinski,Jeff Bridges,"Action, Adventure, Sci-Fi",2010,125.0,U,6.8
+376,Hidden Strike,Scott Waugh,John Cena,"Action, Adventure, Comedy",2023,102.0,UA,6.966027397260274
+377, Underground,Michael Bay,Ryan Reynolds,"Action, Thriller",2019,128.0,18,6.1
+378,HomefrontI ,Gary Fleder,Jason Statham,"Action, Crime, Thriller",2013,100.0,18,6.5
+379,Pirates of the Caribbean: On Stranger Tides,Rob Marshall,Johnny Depp,"Action, Adventure, Fantasy",2011,137.0,UA,6.6
+380,Bad Boys,Michael Bay,Will Smith,"Action, Comedy, Crime",1995,119.0,A,6.8
+381,X-Men: Apocalypse,Bryan Singer,James McAvoy,"Action, Adventure, Sci-Fi",2016,144.0,UA,6.9
+382,American Made,Doug Liman,Tom Cruise,"Action, Comedy, Crime",2017,114.0,A,7.1
+383,American Sniper,Clint Eastwood,Bradley Cooper,"Action, Biography, Drama",2014,133.0,A,7.3
+384,X-Men: The Last Stand,Brett Ratner,Patrick Stewart,"Action, Adventure, Sci-Fi",2006,104.0,A,6.6
+385,The School for Good and Evil,Paul Feig,Kit Young,"Action, Comedy, Drama",2022,147.0,UA 13+,5.9
+386,Jason BourneI ,Paul Greengrass,Matt Damon,"Action, Thriller",2016,123.0,UA,6.6
+387,TakenI ,Pierre Morel,Liam Neeson,"Action, Crime, Thriller",2008,90.0,A,7.8
+388,Man on Fire,Tony Scott,Denzel Washington,"Action, Crime, Drama",2004,146.0,UA,7.7
+389,Ambulance,Michael Bay,Jake Gyllenhaal,"Action, Crime, Drama",2022,136.0,UA,6.1
+390,Strange World,Don Hall,Jake Gyllenhaal,"Animation, Action, Adventure",2022,102.0,PG,5.7
+391,Minority Report,Steven Spielberg,Tom Cruise,"Action, Crime, Mystery",2002,145.0,A,7.6
+392,Conan the Destroyer,Richard Fleischer,Arnold Schwarzenegger,"Action, Adventure, Fantasy",1984,103.0,UA,5.9
+393,Greenland,Ric Roman Waugh,Gerard Butler,"Action, Thriller",2020,119.0,UA,6.4
+394,Triple Frontier,J.C. Chandor,Ben Affleck,"Action, Thriller",2019,125.0,18,6.5
+395,X: First Class,Matthew Vaughn,James McAvoy,"Action, Sci-Fi",2011,131.0,UA,7.7
+396,The Rock,Michael Bay,Sean Connery,"Action, Adventure, Thriller",1996,136.0,A,7.4
+397,Mulan,Niki Caro,Liu Yifei,"Action, Adventure, Drama",2020,115.0,12+,5.8
+398,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,Jason Flemyng,"Action, Comedy, Crime",1998,107.0,A,8.1
+399,The Adam Project,Shawn Levy,Ryan Reynolds,"Action, Adventure, Comedy",2022,106.0,13,6.7
